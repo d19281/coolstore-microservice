@@ -16,7 +16,8 @@
     "keycloak-connect": "^20.0.3",
     "request": "^2.88.2",
     "keycloak-js": "^20.0.3",
-    "jquery": "^3.6.3"
+    "jquery": "^3.6.3",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "bower": ">=1.7.9",
